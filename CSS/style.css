@@ -1,0 +1,39 @@
+*{
+   padding: 0px;
+   margin: 0px;
+}
+.FormDatos{
+   width: 400px;
+   padding: 50px;
+   margin: auto;
+   background-color: rgba(246, 191, 237, 0.595);
+   border-radius: 15px;
+   margin-top: 100px;
+   border: 3px solid rgb(179, 80, 255);
+
+}
+.Titulo{
+   font-size: 35px;
+   color: rgb(145, 97, 175);
+}
+.input{
+   padding: 5px;
+   width: 400px;
+   border-radius: 5px;
+   margin-bottom: 20px;
+   background-color: rgb(248, 246, 250);
+   border: 1px solid cornflowerblue;
+
+}
+.enviar{
+   padding: 10px;
+   padding-left: 7px;
+   padding-right: 7px;
+   width: 15 px;
+   margin-left: 170px;
+   border-radius: 5px;
+   background-color: rgb(246, 235, 255);
+   border: 2px solid mediumpurple;
+   
+
+}
